@@ -6,30 +6,30 @@ So, no there is no space between “dev” and “ops”; that's the whole point
 
 Myself I am all for it and in fact i don't know any other way of doing development than by operation but hey... what does it even mean "development" and "operation" in the first place?
 
-splitting the hair aside the fact is I've been developing for the web for a while now and I am involved in some form of development of commercial software since i was a teenager. In recent years I don't hang out with hardcore programers as much as i used to  and that's mostly because i took the idea of looking for the “end user” to heat maybe too much.
+splitting the hair aside the fact is I've been developing for the web for a while now and I am involved in some form of development of commercial software since i was a teenager. In recent years I don't hang out with hardcore programers as much as i used to  and that's mostly because i took the idea of looking for the “end user” to heart maybe too much.
 
 The idea was to “get out from the office”, find “end users” and engage them at the grass root level. not surprisingly this “grass root level” ended up being close to the grass. how do you combine this with the “cloud” and all the stuff one can do today just with google docks!
 
-well there seem to be a lot of work ahead.
+well there seems to be a lot of work ahead.
 
-so here one of “correspondence from the front line” series:
+so here's one of my “correspondence from the front line” series:
 
 ### contextual info:
 
-it all started during parents evening in a london primary school. i was given a survey to fill in. i said i might help to set up simple google form online so it is easier to do … well everything.
+it all started during parents evening in a london primary school. i was given a survey to fill in. i said i could help to set up a simple google form online so it is easier to do … well everything.
 
-i asked for document used to print the paper-pencil version
+i asked for the document used to print the paper-pencil version
 
-next day i received the document and 
+the next day i received the document and 
 
-went through usual practice of cursing word processors
+went through the usual practice of cursing word processors
 
 ### raf to sam:
 
-and back to you with completed form. i suggest trying it on yourself
+and back to you with completed form. i suggest trying it out yourself
 before sending it out
 
-just out of the curiosity, what do you normally do with these
+just out of curiosity, what do you normally do with these
 responses in paper form? what software do you use to analyse them or
 report further?
 
