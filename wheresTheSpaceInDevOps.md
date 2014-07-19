@@ -2,7 +2,7 @@
 
 ### shouldnt there be a space there. because there is a space close to the ground, near the grass-roots.   
 
-So, no there is no space between “dev” and “ops”; that's the whole point of DevOps. Development and operations working together in one bullpen to use [XP terminology].
+So, no there is no space between “dev” and “ops”; that's the whole point of DevOps. Development and operations working together in one bullpen to use [XP terminology](http://xprogramming.com/what-is-extreme-programming).
 
 Myself I am all for it and in fact i don't know any other way of doing development than by operation but hey... what does it even mean "development" and "operation" in the first place?
 
