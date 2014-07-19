@@ -16,13 +16,17 @@ so here's one of my “correspondence from the front line” series:
 
 ### contextual info:
 
-it all started during parents evening in a london primary school. i was given a survey to fill in. i said i could help to set up a simple google form online so it is easier to do … well everything.
+it all started during parents evening in a london primary school. i was given a survey to fill in. i asked whether they have something set up online. i offered that if i could get the document used to print the paper-pencil version i could help to set up a simple google form online so it is easier for them to do … well everything
 
-i asked for the document used to print the paper-pencil version
+the next day i received the document, 
 
-the next day i received the document and 
+i spent 15 minutes filled with grumbling at word processors
 
-went through the usual practice of cursing word processors
+end ended up with simpliest google form imaginable
+
+i've sent the link as usually one would do 
+
+this is what followed:
 
 ### raf to sam:
 
@@ -36,6 +40,8 @@ report further?
 thanks let me know if you have more :-)
 
 raf
+
+
 
 ### sam to raf:
 
