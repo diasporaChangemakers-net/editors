@@ -29,7 +29,7 @@ i've sent the link as usually one would do
 this is what followed:
 
 ### raf to sam:
-
+```
 and back to you with completed form. i suggest trying it out yourself
 before sending it out
 
@@ -40,11 +40,9 @@ report further?
 thanks let me know if you have more :-)
 
 raf
-
-
-
+```
 ### sam to raf:
-
+```
 Hi Raf,
 
 Thanks for completing the form. Can you send it to me as an attachment - I only use one email address, as it keeps things simple, and as I don't have a gmail account, I can't access your completed form via Google Forms. Many thanks!
@@ -54,10 +52,10 @@ At the moment, we have no standard way to process these things. We're trying to 
 Thanks once again for your feedback.
 
 Best wishes,
-
+```
 ### raf to sam:
 
-
+```
 hi there,
 
 thanks for your email. I think we misunderstood each other :-) and i made a lot of assumptions along the way which not always were the correct ones :-) that's learning for me I guess and hey you are a school governor
@@ -101,4 +99,4 @@ I will then send you graphs and charts that google automatically generated and w
 does this all make sense to you?
 
 raf
-
+```
