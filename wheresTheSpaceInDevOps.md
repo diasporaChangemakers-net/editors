@@ -100,3 +100,9 @@ does this all make sense to you?
 
 raf
 ```
+i know i totally geeked out on poor guy but my point is this, 
+
+ability for seting up a mental infrastructure necessery for him to be able to access tools that will put him in a position to thrive with the technology around him. 
+is beyond his reach. 
+
+it requires team work and it is very difficult to achive cohesion within teams and often there are no leaders and no teams to speak of in terms of organisations' strategy etc
